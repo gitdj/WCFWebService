@@ -15,6 +15,7 @@ namespace BookingWCFService
         BookingResponse BookService(BookingRequest bkReq);
     }
 
+    //Updated the code for changes.
    [DataContract]
     public class BookingRequest
     {
